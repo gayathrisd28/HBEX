@@ -1,1 +1,5 @@
+*/secrets.sh
+*/*.pyc
 */__pycachew__/*
+.DS_Store
+*/env
